@@ -1,0 +1,5 @@
+name: RPG
+main: ru.dargen.rpg.RpgPlugin
+author: dargen
+version: 1.0
+softdepend: [ Core ]
